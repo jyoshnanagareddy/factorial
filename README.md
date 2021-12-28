@@ -1,2 +1,3 @@
 # factorial
-factorial of a number
+pattren
+sequence of stars
